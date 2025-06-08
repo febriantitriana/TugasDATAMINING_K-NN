@@ -1,0 +1,201 @@
+ID,Nama Pegawai,Umur,Jabatan,Lama Bekerja (thn),Gaji (juta/bulan),Status Churn
+1,Ir. Mustofa Permata,41,Manajer,5,23.3,YES
+2,"Paiman Damanik, S.Pt",45,Customer Service,8,9.5,NO
+3,R. Jaka Gunarto,55,IT Support,7,13.0,NO
+4,Jarwa Sudiati,40,Audit Internal,5,19.5,NO
+5,Titi Lazuardi,22,Analis Kredit,1,10.5,NO
+6,"Lala Yulianti, M.M.",54,Audit Internal,4,16.0,NO
+7,Dt. Soleh Prakasa,32,IT Support,5,14.3,NO
+8,Balijan Sinaga,32,Manajer,8,26.2,NO
+9,Prayitna Lailasari,40,Teller,4,8.8,NO
+10,Vivi Nasyidah,50,Analis Kredit,24,10.8,YES
+11,Yessi Suartini,37,Teller,4,6.4,YES
+12,Arta Pangestu,37,Audit Internal,3,17.3,NO
+13,"Amelia Suwarno, S.E.I",23,Audit Internal,1,16.3,NO
+14,Cakrawala Utama,25,Audit Internal,3,16.1,YES
+15,"Soleh Uwais, M.M.",43,Customer Service,6,10.9,NO
+16,"drg. Endah Mandala, M.Ak",22,Manajer,1,22.7,NO
+17,"Nurul Salahudin, M.TI.",24,Security,1,5.8,NO
+18,"Utama Anggraini, M.M.",50,Manajer,12,20.6,YES
+19,Karen Hardiansyah,26,Analis Kredit,5,10.6,NO
+20,Drs. Dimaz Kusmawati,25,Security,3,6.6,YES
+21,"Cut Anastasia Nugroho, S.Psi",54,Teller,8,7.8,YES
+22,Elvina Hidayanto,29,Security,1,4.4,NO
+23,R. Vanya Habibi,54,Analis Kredit,25,9.9,NO
+24,Titin Farida,50,IT Support,18,14.1,NO
+25,Dirja Gunarto,26,Security,1,6.8,NO
+26,Caturangga Dabukke,33,Teller,8,8.8,NO
+27,Hadi Damanik,53,Analis Kredit,27,14.1,YES
+28,Sari Mustofa,24,Analis Kredit,1,11.3,NO
+29,Elon Zulaika,54,IT Support,21,17.8,YES
+30,Ilyas Sihombing,23,Analis Kredit,1,12.0,NO
+31,Drs. Taswir Fujiati,38,Manajer,7,27.6,NO
+32,"Sutan Martaka Halim, S.T.",27,Analis Kredit,2,13.3,YES
+33,Atmaja Mustofa,49,Security,11,5.3,NO
+34,"Sutan Lurhur Sihombing, S.Ked",23,Manajer,1,23.9,NO
+35,Gangsar Wacana,22,IT Support,1,11.5,NO
+36,Dacin Nurdiyanti,35,IT Support,14,14.2,YES
+37,Talia Riyanti,53,Marketing,17,10.4,NO
+38,"Yunita Haryanti, S.Psi",39,Audit Internal,18,16.8,NO
+39,"Bella Firmansyah, S.Psi",50,Teller,27,6.8,NO
+40,drg. Kasim Marbun,34,Analis Kredit,1,12.9,NO
+41,Victoria Adriansyah,28,IT Support,4,15.9,NO
+42,"R. Galiono Haryanti, S.E.",31,Analis Kredit,5,14.3,YES
+43,Hartana Sitompul,26,IT Support,3,15.1,NO
+44,R.M. Paiman Wulandari,49,Marketing,16,10.2,NO
+45,Purwadi Yuniar,39,Manajer,13,29.7,NO
+46,Drs. Hana Mardhiyah,37,Audit Internal,10,16.9,NO
+47,Unggul Maheswara,54,Security,12,6.3,NO
+48,"Cawuk Anggriawan, M.Ak",48,IT Support,8,17.3,YES
+49,Tgk. Laksana Hartati,55,Marketing,3,13.4,YES
+50,Teguh Megantara,32,Teller,1,9.7,YES
+51,Usyi Jailani,40,Marketing,16,11.3,NO
+52,Cinthia Wastuti,27,Teller,4,8.0,NO
+53,Cornelia Gunarto,31,Audit Internal,2,14.9,YES
+54,Zamira Pratiwi,43,Audit Internal,2,12.6,NO
+55,Wulan Sihombing,53,Manajer,25,22.3,YES
+56,"Dr. Emil Andriani, M.TI.",29,Customer Service,3,11.6,NO
+57,Edward Pangestu,27,Marketing,2,9.4,NO
+58,Ir. Vanesa Samosir,53,Customer Service,29,10.4,NO
+59,Taswir Siregar,41,IT Support,8,12.5,NO
+60,"Artanto Palastri, M.Farm",45,Manajer,16,24.1,NO
+61,Rahayu Latupono,30,Customer Service,2,9.2,NO
+62,Jagapati Hutapea,49,IT Support,4,13.5,NO
+63,Oliva Adriansyah,44,Audit Internal,8,12.5,NO
+64,Mila Narpati,53,Audit Internal,21,13.8,NO
+65,"Hamima Nainggolan, S.IP",34,Marketing,11,11.0,YES
+66,Drs. Violet Wasita,32,Teller,9,9.5,NO
+67,Sarah Saragih,31,Analis Kredit,2,8.8,NO
+68,Vivi Wastuti,31,Manajer,4,21.6,NO
+69,Edison Andriani,44,Teller,15,8.9,YES
+70,Samiah Sudiati,25,Teller,2,7.3,YES
+71,"KH. Gada Winarno, S.I.Kom",28,Security,4,4.6,YES
+72,"Omar Budiman, S.Psi",38,Audit Internal,3,14.7,NO
+73,Shania Nashiruddin,38,Marketing,6,10.3,NO
+74,Tgk. Edison Habibi,34,Security,11,6.2,YES
+75,Wardi Rahimah,53,IT Support,4,17.0,YES
+76,R. Zulaikha Astuti,51,Marketing,1,11.4,NO
+77,"Xanana Gunarto, S.Sos",29,Teller,8,9.7,YES
+78,Hairyanto Prasetyo,54,Marketing,5,14.0,YES
+79,drg. Olivia Sinaga,27,Marketing,4,8.9,NO
+80,Anita Ardianto,39,Analis Kredit,2,12.5,NO
+81,Yessi Habibi,36,Audit Internal,4,15.6,NO
+82,Dalima Gunawan,43,Manajer,20,27.7,NO
+83,Sakti Hidayat,39,Security,7,4.3,NO
+84,Victoria Anggraini,25,Marketing,1,9.8,NO
+85,Tgk. Azalea Kusumo,37,Analis Kredit,7,13.3,NO
+86,Chandra Wijayanti,39,IT Support,7,12.8,NO
+87,Maras Zulkarnain,47,Customer Service,21,10.9,NO
+88,Atmaja Napitupulu,45,Audit Internal,12,17.2,NO
+89,"Mumpuni Riyanti, S.IP",23,Manajer,1,22.2,NO
+90,"Malika Melani, M.M.",31,Marketing,5,12.2,NO
+91,Laras Pratiwi,36,Marketing,10,10.9,YES
+92,Mumpuni Zulkarnain,27,Analis Kredit,1,11.8,NO
+93,Tania Nainggolan,36,IT Support,7,12.0,NO
+94,"Pandu Purnawati, S.IP",45,IT Support,15,10.5,YES
+95,Galar Lestari,32,Analis Kredit,11,9.2,NO
+96,Asman Prayoga,43,IT Support,3,15.7,YES
+97,"Dipa Mustofa, S.Sos",33,Marketing,5,9.9,YES
+98,Mulyono Yuliarti,37,Audit Internal,13,19.3,NO
+99,Fitria Gunawan,52,Customer Service,21,9.9,YES
+100,R.A. Yuni Rajasa,40,Manajer,8,22.7,NO
+101,Vicky Salahudin,46,Customer Service,7,9.7,NO
+102,Hani Yuliarti,31,Marketing,3,8.6,NO
+103,Pia Salahudin,24,IT Support,3,10.1,YES
+104,"Puti Maria Permata, S.Sos",55,Audit Internal,1,19.8,NO
+105,Ajeng Susanti,38,Analis Kredit,6,12.2,NO
+106,Sabar Hasanah,29,Analis Kredit,6,13.9,YES
+107,Qori Ardianto,51,Analis Kredit,7,15.0,NO
+108,Yance Waluyo,49,Analis Kredit,24,13.3,NO
+109,"Dt. Labuh Pradipta, S.E.I",29,Customer Service,4,9.5,NO
+110,Wirda Kuswandari,34,Manajer,13,28.6,YES
+111,H. Jasmani Sihombing,36,Teller,8,7.9,NO
+112,Kawaya Laksmiwati,45,Analis Kredit,23,8.8,YES
+113,Keisha Yulianti,49,IT Support,3,11.9,YES
+114,"Yuni Wahyuni, S.Gz",40,Audit Internal,17,16.1,YES
+115,"Jamalia Laksmiwati, S.Gz",31,Security,8,4.4,NO
+116,Cici Padmasari,54,Manajer,29,26.1,NO
+117,drg. Usyi Mayasari,25,Audit Internal,2,17.3,NO
+118,"Dr. Widya Mahendra, M.Farm",53,Marketing,15,11.6,YES
+119,Dian Haryanti,50,Teller,12,7.5,YES
+120,Anggabaya Mulyani,28,Customer Service,7,8.0,NO
+121,"Tgk. Surya Prayoga, S.Gz",51,Marketing,30,11.3,NO
+122,Silvia Uwais,39,Marketing,1,10.0,YES
+123,Karya Pranowo,33,Marketing,10,12.2,NO
+124,T. Gaiman Nuraini,27,Marketing,5,9.7,NO
+125,dr. Paris Januar,22,Analis Kredit,1,12.3,NO
+126,Elvina Setiawan,39,Security,10,4.3,NO
+127,Ozy Hassanah,43,Audit Internal,3,13.2,YES
+128,KH. Kamal Adriansyah,39,Customer Service,13,11.7,NO
+129,Sutan Oskar Sihombing,44,Security,4,4.7,NO
+130,"Ajimin Jailani, M.Farm",44,Audit Internal,16,15.6,YES
+131,T. Jati Utama,35,Manajer,2,22.7,NO
+132,Wirda Nuraini,48,Marketing,20,10.6,NO
+133,Timbul Yolanda,23,IT Support,1,11.9,NO
+134,Wahyu Haryanti,40,Security,18,4.6,YES
+135,"Drs. Vicky Manullang, S.H.",55,Manajer,10,28.5,YES
+136,Atma Laksita,30,Customer Service,8,8.8,NO
+137,Puspa Sitompul,44,Customer Service,10,7.3,NO
+138,Kezia Situmorang,24,Audit Internal,1,17.2,NO
+139,Rosman Kusumo,44,Security,17,6.7,NO
+140,H. Mulyanto Narpati,39,IT Support,1,15.2,NO
+141,Ami Waluyo,53,Manajer,9,27.6,NO
+142,"Banawa Waluyo, S.Pd",39,Security,11,4.8,YES
+143,"Dr. Iriana Marbun, S.E.I",50,Customer Service,21,7.6,NO
+144,Najib Oktaviani,44,Security,16,5.3,NO
+145,R. Titin Wibowo,42,Marketing,15,12.4,NO
+146,Margana Kusumo,42,Customer Service,8,11.6,NO
+147,"Cut Rachel Utami, S.Pt",48,Security,5,6.7,YES
+148,Padma Maheswara,55,Analis Kredit,22,9.2,NO
+149,R.A. Zulaikha Purwanti,30,IT Support,6,11.8,NO
+150,Aisyah Maryadi,26,Manajer,2,26.5,NO
+151,Kamila Prasetya,24,Audit Internal,2,16.6,NO
+152,Kezia Prakasa,38,Audit Internal,9,15.8,NO
+153,Ciaobella Saputra,38,Audit Internal,1,18.9,YES
+154,Uchita Usada,50,Marketing,20,10.3,NO
+155,Harto Uyainah,46,Teller,24,9.2,NO
+156,Jefri Kuswandari,40,Audit Internal,4,19.4,NO
+157,"Drs. Vera Waskita, S.E.I",55,Teller,10,8.5,NO
+158,Marsudi Pratama,31,Security,9,6.2,NO
+159,Karma Damanik,46,IT Support,22,17.1,YES
+160,Mala Salahudin,36,Marketing,13,11.5,YES
+161,"Hani Maryadi, S.E.",27,Marketing,3,13.5,YES
+162,"Baktiadi Sihotang, S.H.",38,Analis Kredit,4,11.1,NO
+163,"Salman Saefullah, S.Gz",50,Audit Internal,14,16.7,NO
+164,Setya Nainggolan,31,Analis Kredit,1,10.3,YES
+165,Laksana Waskita,31,IT Support,1,10.5,NO
+166,Carla Pudjiastuti,55,Marketing,13,10.6,YES
+167,Estiawan Kuswoyo,26,Audit Internal,3,14.6,NO
+168,"Ira Suryono, S.H.",25,Security,1,4.3,NO
+169,Raina Habibi,28,Security,2,5.3,NO
+170,"Sutan Samsul Waskita, M.Kom.",35,Marketing,12,12.6,NO
+171,drg. Oliva Astuti,37,Marketing,2,10.2,NO
+172,Uli Widiastuti,25,Customer Service,4,11.4,YES
+173,Ami Padmasari,41,Manajer,1,21.5,NO
+174,"Ulya Laksmiwati, S.E.I",33,Teller,2,7.1,NO
+175,Mustika Melani,44,Analis Kredit,13,9.0,NO
+176,Melinda Maulana,22,IT Support,1,17.8,YES
+177,"Fitria Prastuti, S.IP",51,Security,9,6.8,YES
+178,"Wirda Jailani, S.Kom",35,IT Support,7,11.3,YES
+179,Clara Hastuti,49,Security,11,4.5,NO
+180,Candra Situmorang,46,Manajer,25,22.1,NO
+181,Gambira Firgantoro,40,Manajer,17,23.0,YES
+182,"Nardi Nurdiyanti, S.Farm",38,Analis Kredit,12,12.2,YES
+183,Ir. Harja Hariyah,41,Audit Internal,12,13.2,NO
+184,Hardi Lailasari,25,Analis Kredit,3,8.5,NO
+185,Drs. Victoria Wahyudin,50,Security,29,4.4,NO
+186,"Drs. Oskar Wijaya, M.TI.",42,Teller,17,8.9,YES
+187,Cecep Maulana,33,Audit Internal,6,12.5,YES
+188,Dr. Vinsen Mandasari,32,Customer Service,10,8.9,NO
+189,Rahmi Prabowo,53,Security,25,4.5,NO
+190,Dt. Pandu Prabowo,36,IT Support,10,18.0,YES
+191,"drg. Vera Namaga, M.Farm",40,Manajer,6,30.0,NO
+192,Edison Mulyani,29,Audit Internal,3,17.9,NO
+193,Tgk. Ciaobella Tamba,24,Security,2,6.4,NO
+194,"Dt. Ian Kurniawan, S.Ked",36,IT Support,6,12.4,NO
+195,Rangga Lazuardi,40,Marketing,10,10.2,NO
+196,Dr. Wirda Adriansyah,53,Audit Internal,13,12.1,NO
+197,"Jasmani Yuniar, S.Farm",23,Customer Service,1,8.7,NO
+198,drg. Samsul Nainggolan,54,Marketing,11,12.4,NO
+199,"Olivia Zulaika, S.IP",50,IT Support,19,10.1,NO
+200,Diah Utama,43,Customer Service,22,8.2,NO
